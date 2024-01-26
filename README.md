@@ -1,7 +1,7 @@
 ## Getting Started
 Francis Obeng
 
-'Hello GitHub!'
+'Hello GitHub!'   ## NOTE My FizzBuzz.java project is located in the SRC folder!
 
-N
-## NOTE My FizzBuzz.java project is located in the SRC folder!
+
+
