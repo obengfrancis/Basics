@@ -1,0 +1,26 @@
+1. What is the name of the author of the last commit on this version of git?
+       Ans: Junio C Hamano
+
+2. How many objects share a partial match with the hash '8348'?
+	Ans:	12 total, partial matches.
+        
+
+3. How many blobs, trees, and commits are there?
+     Ans: 5 commits, 
+		   4 trees, and 
+		   3 blobs
+
+4. In your own words, describe what this commit is 	doing?
+
+	Ans: This commit shows an update to the 	German translation (localization) for Git version 	2.31.0, authored and committed by Matthias 	Rüster and reviewed by Ralf Thielow and Phillip 	Szelat
+
+ 
+
+5. What is the name of the first file listed that changed between versions 2.31.0 and 2.31.1?
+
+Ans:     Documentation/RelNotes/2.31.1.txt
+
+
+6. How many total branches are there for the git repository?
+
+Ans:  7 branches, if origin/master is included, or 6 branches.
