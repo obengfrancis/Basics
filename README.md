@@ -1,10 +1,10 @@
-## Getting Started
+## CS6704 SE BASIC WORKSHOP
 Francis Obeng
 
 'Hello GitHub!'      ## NOTE My FizzBuzz.java project is located in the SRC folder!
 
 
-
+##SCRUM MEETING:
 Scrum Meeting: Francis Obeng, obengfrancis89@vt.edu and Shiung, Tian-Yu stianyu99@vt.edu
 
 Edward: 
