@@ -1,4 +1,11 @@
 public class Roman {
+    /**
+     * Description: Convert Roman numerals to integers
+     * Author: Xiaoxiao Gan
+     * IDE: Intellij IDE
+     * @param s
+     * @return the converted integers
+     */
     public int romanToInt(String s) {
 
         int temp = 0;
